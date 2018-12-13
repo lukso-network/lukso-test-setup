@@ -1,6 +1,6 @@
 [submodule "submodules/poa-chain-spec"]
 	path = submodules/poa-chain-spec
-	url = https://github.com/poanetwork/poa-chain-spec
+	url = https://github.com/lukso-network/poa-chain-spec
 	branch = sokol
 [submodule "submodules/poa-scripts-moc"]
 	path = submodules/poa-scripts-moc
