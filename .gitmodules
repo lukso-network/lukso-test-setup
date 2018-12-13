@@ -4,7 +4,7 @@
 	branch = sokol
 [submodule "submodules/poa-scripts-moc"]
 	path = submodules/poa-scripts-moc
-	url = https://github.com/poanetwork/poa-scripts-moc
+	url = https://github.com/lukso-network/poa-scripts-moc
 	branch = sokol
 [submodule "submodules/poa-dapps-validators"]
 	path = submodules/poa-dapps-validators
