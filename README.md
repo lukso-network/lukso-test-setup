@@ -1,4 +1,4 @@
-# POA Network test setup
+# LUKSO Network test setup
 
 ## How it works:
 - [x] gets content of `master` branch of `poa-network-consensus-contracts` repo
