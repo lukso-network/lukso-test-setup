@@ -1,9 +1,9 @@
 [submodule "submodules/lukso-chain-spec"]
-	path = submodules/poa-chain-spec
+	path = submodules/lukso-chain-spec
 	url = https://github.com/lukso-network/lukso-chain-spec
 	branch = sokol
 [submodule "submodules/lukso-scripts-moc"]
-	path = submodules/poa-scripts-moc
+	path = submodules/lukso-scripts-moc
 	url = https://github.com/lukso-network/lukso-scripts-moc
 	branch = sokol
 [submodule "submodules/poa-dapps-validators"]
