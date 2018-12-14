@@ -1,10 +1,10 @@
-[submodule "submodules/poa-chain-spec"]
+[submodule "submodules/lukso-chain-spec"]
 	path = submodules/poa-chain-spec
-	url = https://github.com/lukso-network/poa-chain-spec
+	url = https://github.com/lukso-network/lukso-chain-spec
 	branch = sokol
-[submodule "submodules/poa-scripts-moc"]
+[submodule "submodules/lukso-scripts-moc"]
 	path = submodules/poa-scripts-moc
-	url = https://github.com/lukso-network/poa-scripts-moc
+	url = https://github.com/lukso-network/lukso-scripts-moc
 	branch = sokol
 [submodule "submodules/poa-dapps-validators"]
 	path = submodules/poa-dapps-validators
